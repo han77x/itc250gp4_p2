@@ -1,0 +1,67 @@
+ 
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #666666;
+}
+main {
+    width: 80%;
+    margin: 0 auto;
+    padding: none;
+    text-align: inline-block;
+    background: #FFFFFF;
+    border: 2px solid #000000;
+}
+div1 {
+    width: auto;
+    height: 800px;
+    padding: 0;
+    margin: 0 auto;
+}
+h1{
+    text-align:center;
+    
+}
+
+h2{
+    text-align:center;
+}
+
+p {
+    margin: .5em 0;
+}
+
+br {
+    clear: both;
+    margin-bottom: .2em;
+}
+ 
+form{
+    padding: 20px;
+}
+
+#submit{
+    margin:0 auto;
+    margin-top:50px;
+    color:red;
+    display:block;
+}
+
+footer {
+line-height:25px; 
+background:#000000;
+width:100%;
+color:white;
+    display: table;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer li {
+float:left;
+list-style-type:none; 
+width:33.33%;
+text-align:center;
+padding-bottom:.5em;
+}
+ 
