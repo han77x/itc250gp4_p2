@@ -39,12 +39,22 @@ form{
     padding: 20px;
 }
 
+select{
+    font-size: .85em;
+    
+}
+
+
 #submit{
     margin:0 auto;
     margin-top:50px;
     color:red;
     display:block;
+    font-size: .85em;
+    font-weight: bold;
 }
+
+
 
 footer {
 line-height:25px; 
