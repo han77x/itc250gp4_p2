@@ -160,11 +160,7 @@ if (isset($_POST['calculateTotal'])){
 		
 	$quantity = $_POST['quantity'];
 
-	echo '<pre>';
-    print_r($quantity);
-    echo '</pre>';
-		
-		$quantity. ', ' .$item->Price;
+	echo $quantity. ', ' .$item->Price;
 	//$total = 0;
 		//this are strings objects
 		
